@@ -1,16 +1,15 @@
-/*
-Challenge:
-1. Center the text and button
-2. Style the button according to the design.
-   Use a class to select the button.
-*/
+@font-face {
+    src: url("space\ punk\ Bold\ Italic.ttf");
+    font-family: spacepunk;
+}
 
 body {
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
     text-align: center;
-    font-family: "Orbitron", serif;
+    /* font-family: "Orbitron", serif; */
+    font-family: "spacepunk";
 }
 
 .btn {
