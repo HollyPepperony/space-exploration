@@ -1,15 +1,9 @@
-@font-face {
-    src: url("space\ punk\ Bold\ Italic.ttf");
-    font-family: spacepunk;
-}
-
 body {
     color: white;
     background-image: url("images/galaxy.webp");
     background-size: cover;
     text-align: center;
-    /* font-family: "Orbitron", serif; */
-    font-family: "spacepunk";
+    font-family: "Orbitron", serif;
 }
 
 #main-logo {
